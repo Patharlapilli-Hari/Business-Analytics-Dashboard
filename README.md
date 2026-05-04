@@ -10,6 +10,7 @@ The objective of this project is to build an interactive Business Analytics Dash
 
 <div style="text-align: center;">
      <img src="https://github.com/Patharlapilli-Hari/Business-Analytics-Dashboard/blob/a40f053771f2b09adfc2c72d538d21c9397c1a63/Screenshot%202026-05-04%20124914.png" alt="ui" width="600"/>
+      <img src="https://github.com/Patharlapilli-Hari/Business-Analytics-Dashboard/blob/2a5de8b95b10779091010252827b497c49a48c0e/Screenshot%202026-05-04%20124943.png" alt="ui" width="600"/>
 </div>
 
 ---
